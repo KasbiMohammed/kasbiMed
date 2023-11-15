@@ -1,5 +1,5 @@
 # kasbiMed
-e projet est une application de gestion qui permet de gérer des articles selon leur catégorie.
+c'est projet est une application de gestion qui permet de gérer des articles selon leur catégorie.
 
 L'application a été développée en utilisant les technologies et outils suivants :
 
